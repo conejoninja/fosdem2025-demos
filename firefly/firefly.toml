@@ -1,0 +1,9 @@
+author_id = "conejo"
+app_id = "hello-world"
+author_name = "Conejo"
+app_name = "Hello World"
+
+
+[files]
+gopher = { path = "gopher.png" }
+font = { path = "eg_9x15.fff" }
